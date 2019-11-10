@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="47" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+      <class name="MavenPackage.FireFoxTestBrowserTest">
+        <test-method status="PASS" signature="FireFoxTestBrowser_1()[pri:0, instance:MavenPackage.FireFoxTestBrowserTest@59f99ea]" name="FireFoxTestBrowser_1" duration-ms="16" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFoxTestBrowser_1 -->
+        <test-method status="PASS" signature="FireFoxTestBrowser_2()[pri:0, instance:MavenPackage.FireFoxTestBrowserTest@59f99ea]" name="FireFoxTestBrowser_2" duration-ms="0" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFoxTestBrowser_2 -->
+      </class> <!-- MavenPackage.FireFoxTestBrowserTest -->
+      <class name="MavenPackage.IETestBrowserTest">
+        <test-method status="PASS" signature="IETestBrowser_1()[pri:0, instance:MavenPackage.IETestBrowserTest@27efef64]" name="IETestBrowser_1" duration-ms="0" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IETestBrowser_1 -->
+        <test-method status="PASS" signature="IETestBrowser_2()[pri:0, instance:MavenPackage.IETestBrowserTest@27efef64]" name="IETestBrowser_2" duration-ms="0" started-at="2019-10-25T09:18:21 IST" finished-at="2019-10-25T09:18:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IETestBrowser_2 -->
+      </class> <!-- MavenPackage.IETestBrowserTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

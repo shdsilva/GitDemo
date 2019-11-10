@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2019-10-24T00:15:06 IST" finished-at="2019-10-24T00:15:06 IST">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="53" started-at="2019-10-24T00:15:06 IST" finished-at="2019-10-24T00:15:06 IST">
+      <class name="MavenPackage.FireFoxTestBrowserTest">
+        <test-method status="PASS" signature="FireFoxTestBrowser_1()[pri:0, instance:MavenPackage.FireFoxTestBrowserTest@2b9627bc]" name="FireFoxTestBrowser_1" duration-ms="10" started-at="2019-10-24T00:15:06 IST" finished-at="2019-10-24T00:15:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFoxTestBrowser_1 -->
+        <test-method status="PASS" signature="FireFoxTestBrowser_2()[pri:0, instance:MavenPackage.FireFoxTestBrowserTest@2b9627bc]" name="FireFoxTestBrowser_2" duration-ms="1" started-at="2019-10-24T00:15:06 IST" finished-at="2019-10-24T00:15:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFoxTestBrowser_2 -->
+      </class> <!-- MavenPackage.FireFoxTestBrowserTest -->
+      <class name="MavenPackage.GoogleTestBrowserTest">
+        <test-method status="PASS" signature="GoogleTestBrowser_1()[pri:0, instance:MavenPackage.GoogleTestBrowserTest@65e2dbf3]" name="GoogleTestBrowser_1" duration-ms="1" started-at="2019-10-24T00:15:06 IST" finished-at="2019-10-24T00:15:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleTestBrowser_1 -->
+      </class> <!-- MavenPackage.GoogleTestBrowserTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

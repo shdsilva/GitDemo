@@ -1,0 +1,3 @@
+MavenPackage\IETestBrowserTest.class
+MavenPackage\GoogleTestBrowserTest.class
+MavenPackage\FireFoxTestBrowserTest.class
